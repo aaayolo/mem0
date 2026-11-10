@@ -18,7 +18,7 @@ The experiment is a subset using the local open-source SDK, not an exact reprodu
 ## 1. Clone and install
 
 ```bash
-git clone --branch feature/locomo-threshold-experiment https://github.com/aaayolo/mem0.git
+git clone https://github.com/aaayolo/mem0.git
 cd mem0
 
 python3.10 -m venv .venv
